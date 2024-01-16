@@ -1,4 +1,4 @@
-# insertion-sort
+# Insertion Sort
 
 
 ### Objective
