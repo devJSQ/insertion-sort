@@ -3,7 +3,7 @@
 
 ### Objective
 
-In this project, we will cover the fundamentals of an `Insertion Sort Algorithm`, and its operations.
+In this project, we will cover the fundamentals of an `Insertion Sort Algorithm`.
 
 
 ### Problem
